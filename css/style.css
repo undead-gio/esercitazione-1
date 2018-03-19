@@ -1,0 +1,45 @@
+html{
+    width: 100%;
+    height: 100%;
+    overflow: hidden
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    overflow: hidden
+}
+
+
+.titles{
+    padding: 1%;
+}
+
+.h-banana{
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.yellow{
+    color: #F4CA62;
+}
+
+.banana{
+    width: 200px;
+    z-index: 10;
+}
+
+.bacon{
+    width: 150px;
+    position: absolute;
+    left: 300px;
+    top: 400px;
+
+}
+.banana-class{
+    width: 98%;
+    height: 80%;
+    margin: 1%;
+    border: #5A4A43 10px solid;
+}
